@@ -1,0 +1,50 @@
+{
+    "posts": [{
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+    }],
+    "users": [{
+            "name": " mandal",
+            "Address": "Durgipatti",
+            "phone": "9262852568",
+            "id": 1
+        },
+        {
+            "name": "Amit mandal",
+            "Address": "Durgipatti",
+            "phone": "12346546456",
+            "id": 2
+        },
+        {
+            "name": "peter",
+            "Address": "mumbai",
+            "phone": "4444444",
+            "id": 3
+        },
+        {
+            "name": "Broma",
+            "Address": "delhi",
+            "phone": "70008000",
+            "id": 4
+        },
+        {
+            "name": "Ranapatil",
+            "Address": "delhi",
+            "phone": "70008000",
+            "id": 5
+        },
+        {
+            "name": "Kalua",
+            "Address": "Bihar",
+            "phone": "50001000",
+            "id": 6
+        },
+        {
+            "name": "sitsa",
+            "Address": "kolkata",
+            "phone": "789945613",
+            "id": 7
+        }
+    ]
+}
